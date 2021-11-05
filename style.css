@@ -1,0 +1,29 @@
+body{
+    background:#e6f4ff;
+    background: -webkit-linear-gradient(-45deg, #e6f4ff, #baffef);
+    text-align:center;
+   
+}
+
+h1{
+    font-family:Arial;
+    font-size: 2em;
+    
+}
+
+h2{
+    font-family:Arial;
+    font-size:1.75em;
+}
+
+h3{
+    font-family:Arial;
+    font-size:1.25em;
+
+}
+
+h5{
+    font-family: Arial;
+    font-size:0.9em;
+    opacity:0.5;
+}
